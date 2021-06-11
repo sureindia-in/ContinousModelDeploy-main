@@ -2,4 +2,4 @@
 by Srivatsan Srinivasan
 Cloned here for my reference
 
-UPdate to demo in AIEngineering channel
+Updated to check the Trigger created in the cloud build
